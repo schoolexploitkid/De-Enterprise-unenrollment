@@ -3,6 +3,8 @@ Unenroll chromebooks by taking out a card from the chromebook and replacing it w
 
 You must be willing to take apart your chromebook in order to do this.
 
+Eh, I might add a video later if...
+
 ## Steps:
 This COULD harm your chromebook if done incorrectly, but I am not responsible for that.
 Follow these exact steps.
